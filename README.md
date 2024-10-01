@@ -1,5 +1,6 @@
 # XAI_object_detection
-Application of XAI in Object Detection 
+
+![alt text](https://github.com/syeon-h/XAI_object_detection/blob/main/poster.jpg)
 
 # Introduction  
 Machine learning and artificial intelligence algorithms are adept at processing vast volumes of input data to generate results. However, with advancements in scale and precision, these algorithms have grown increasingly intricate and challenging to comprehend. Explainable Artificial Intelligence (XAI) emerges as a pivotal extension of AI, enabling human understanding and interpretation of the decisions made by AI systems. In contrast to conventional machine learning and deep learning models, often perceived as opaque black boxes, XAI possesses the unique capability to elucidate the procedural aspects and mechanisms behind the obtained outcomes. This transparency fosters a clearer comprehension of the decision-making process, empowering individuals to grasp how the AI arrived at its conclusions. 
